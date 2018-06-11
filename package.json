@@ -1,0 +1,27 @@
+{
+  "name": "01-node-ecosystem2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node ./__test__/lib/hello.test.js",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbach197/01-Node-Ecosystem2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbach197/01-Node-Ecosystem2/issues"
+  },
+  "homepage": "https://github.com/jbach197/01-Node-Ecosystem2#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jest": "^23.1.0"
+  }
+}
