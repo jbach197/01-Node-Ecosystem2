@@ -1,6 +1,5 @@
 'use strict';
 
-
 const arithmetic = require('../../lib/arithmetic.js');
 const assert = require('assert');
 
