@@ -2,7 +2,7 @@
 
 Link to Master: https://github.com/jbach197/01-Node-Ecosystem2
 Link to Pull Request: https://github.com/jbach197/01-Node-Ecosystem2/pull/1
-Link to Travis:
+Link to Travis: [![Build Status](https://travis-ci.com/jbach197/01-Node-Ecosystem2.svg?branch=lab01-jen)](https://travis-ci.com/jbach197/01-Node-Ecosystem2)
 
 #Greet Modue
 ##Requirements
@@ -20,6 +20,12 @@ Write a test that expects the greet module to return null when you supply non-st
 
 Write a test the expects the greet module to return 'hello world'
 This should happen when invoked with 'world' as the first argument
+
+##User Instructions
+1) Clone the repo
+2) Run npm i to install dependencies
+3) Run npm lint for the linter
+4) Run npm test for tests
 
 #Arithmetic Module Tests
 ## Requirements
