@@ -29,13 +29,15 @@ The add method should have a 2 parameters (airty of two)
 if either argument is a non-number the function should return null
 else return the sum of the 2 numbers
 The sub method should have 2 parameters (airty of two)
-if either argument is a non-number the function should return nul
-
+if either argument is a non-number the function should return nu
 
 ## Testing
 Test each method for proper use (invoked with number arguments)
 
 Test each method for inproper use (invoked with one or more non-number arguments)
+
+## Credits
+None.
 
 
 
